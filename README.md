@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 # test
 testing
+
+## Copyright
+alright reserved
